@@ -2,9 +2,13 @@
 
 ## Group Members:
 Edward Loke
+
 Jerome Seah
+
 Song Zhiqian
+
 Tham Shun Cong Aaron
+
 Zhang Yu
 
 ## Link to Dataset used:
